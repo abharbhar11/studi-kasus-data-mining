@@ -1,5 +1,5 @@
 # studi-kasus-data-mining
-studi kasus yang diambil dari data terpadu kesejahteraan sosial provinsi dki jakarta tahun 2022
+hasil review aplikasi twitter
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 proses bisnis yang diambil yakni hasil review dari aplikasi twitter yang mana nantinya dari hasil tersebut akan berdampak pada pengembangan aplikasi
 tersebut dan yang menjadi acuannya adalah hasil review dari pengguna yang berupa komentar dan juga rating yang diberikan
